@@ -39,8 +39,8 @@ Pipeline_Big_Data/
 
 ### Interface Airflow
 
-![Airflow Home](assets/images/airflow_home.png)
+![Airflow Home](images/airflow_home.png)
 
 ### DAG Big Data en succès
 
-![DAG Success](assets/images/dag_success.png)
+![DAG Success](images/dag_success.png)
