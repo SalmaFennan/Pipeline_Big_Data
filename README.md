@@ -32,7 +32,15 @@ Password : admin
 ## Structure du projet
 Pipeline_Big_Data/
 │
-├── dags/              # DAGs Airflow (ex : bigdata_pipeline_complete.py)
-├── data/              # Données d’entrée et de sortie
-├── docker-compose.yml # Définition des services (Airflow + Postgres)
+├── dags/              
+├── data/             
+├── docker-compose.yml 
 └── README.md        
+
+### Interface Airflow
+
+![Airflow Home](assets/images/airflow_home.png)
+
+### DAG Big Data en succès
+
+![DAG Success](assets/images/dag_success.png)
